@@ -1,0 +1,23 @@
+ header {text-align: center;}
+ header div {text-align: right;}
+
+li {
+    display: inline;
+   }
+nav {text-align: center;}
+main { width:100%;}
+main li {display: block}
+main nav {text-align: left; width:20%; float:left;}
+main section {float: left; width:40%;}
+
+footer {
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:150px;
+   width:100%;
+   
+}
+
+footer nav li { display: inline;}
+footer div {text-align:center;}
